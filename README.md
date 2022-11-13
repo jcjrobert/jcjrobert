@@ -13,8 +13,6 @@ I’m **jcjrobert**.
 ![](https://github.com/jcjrobert/github-stats/blob/master/generated/overview.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 176 Contributions in the Year 2022
@@ -38,5 +36,5 @@ Vue                      2 repos             █████░░░░░░�
 
 
 
- Last Updated on 13/11/2022 13:05:34 UTC
+ Last Updated on 13/11/2022 13:08:34 UTC
 <!--END_SECTION:waka-->
