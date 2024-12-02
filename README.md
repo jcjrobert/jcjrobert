@@ -17,14 +17,49 @@ I’m **jcjrobert**.
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
  > 
 > 🔑 38 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                174 commits         ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+🌆 Daytime                335 commits         ███████████░░░░░░░░░░░░░░   44.20 % 
+🌃 Evening                199 commits         ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+🌙 Night                  50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   113 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Tuesday                  147 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Wednesday                132 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Thursday                 98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Friday                   103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Saturday                 92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Sunday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -38,5 +73,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 18:43:38 UTC
+ Last Updated on 02/12/2024 18:46:51 UTC
 <!--END_SECTION:waka-->
