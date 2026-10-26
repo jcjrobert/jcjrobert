@@ -1,85 +1,51 @@
-### Hi there 👋
+<p align="center">
+  <picture>
+    <source media="(max-width: 480px) and (prefers-color-scheme: dark)" srcset="./assets/header-dark-mobile.svg">
+    <source media="(max-width: 480px) and (prefers-color-scheme: light)" srcset="./assets/header-light-mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+    <img alt="jcjrobert" src="./assets/header-light.svg" width="76%">
+  </picture>
+  <img src="https://avatars.githubusercontent.com/u/52129454?s=400" alt="jcjrobert's GitHub avatar" width="20%">
+</p>
+<p align="center">Web applications · Automation · Media processing</p>
 
-I’m **jcjrobert**.
+# Hi, I'm jcjrobert
 
-- 🌱 I’m currently learning: Vue / Java / C#
+I work on web applications, automation, and audio/video workflows, primarily with Python, Go, and Vue / TypeScript.
 
-🌟 **My Skills**
+I tend to keep working on software after the feature is there: checking whether the data is right, whether the interface makes the next action clear, and whether the workflow still makes sense in everyday use.
 
-![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+## What I Work On
 
-📚 **Some Stats**
+### Interactive Web Applications
 
-![](https://github.com/jcjrobert/github-stats/blob/master/generated/overview.svg)
+Connecting Vue / TypeScript interfaces with backend services, including real-time updates and shared application state. I pay attention to how changes reach the screen and how clearly the interface distinguishes what is pending, in progress, or complete.
 
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+### Automation & Integration
 
-> 📦 2.2 MB Used in GitHub's Storage 
- > 
-> 🏆 15 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 70 Private Repositories 
- > 
-**I'm an Early 🐤** 
+Using Python and Go to connect external APIs, application data, and background tasks. The work often involves reconciling data between systems, turning it into readable information, and investigating mismatches between what an interface shows and what a service actually returns.
 
-```text
-🌞 Morning                798 commits         ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-🌆 Daytime                1335 commits        ███████████░░░░░░░░░░░░░░   45.33 % 
-🌃 Evening                660 commits         ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-🌙 Night                  152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-```
-📅 **I'm Most Productive on Tuesday** 
+### Audio & Video Workflows
 
-```text
-Monday                   470 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Tuesday                  499 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Wednesday                490 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Thursday                 453 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Friday                   418 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Saturday                 289 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Sunday                   326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-```
+Combining FFmpeg and Python tools for video assembly, subtitles, audio mixing, and batch processing. Details include keeping audio and subtitles aligned, balancing speech against background music, and handling progress, cancellation, and partial failures.
 
+## Details I Care About
 
-📊 **This Week I Spent My Time On** 
+- **Clear state, less noise.** Use emphasis where it helps someone act; remove repeated labels and decoration that adds no information.
+- **Data that matches reality.** Trace inconsistencies instead of keeping a number simply because it looks useful.
+- **Useful after the first run.** Revisit the workflow, failure cases, and small annoyances that appear through continued use.
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
+## Working with AI
 
-🔥 Editors: 
-No Activity Tracked This Week
+I use AI coding tools extensively throughout development: exploring existing code, discussing implementation options, writing and revising changes, debugging, and checking the results.
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
+That process is iterative. I refine requirements and constraints, inspect the behavior, and bring what I find back into the next change.
 
-💻 Operating System: 
-No Activity Tracked This Week
-```
+## Tools I Reach For
 
-🤖 **AI Coding This Week** 
+![Python](./assets/badges/python.svg) ![Go](./assets/badges/go.svg) ![TypeScript](./assets/badges/typescript.svg)
 
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   51 repos            █████████████████░░░░░░░░   66.23 % 
-TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-GDScript                 3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-```
-
-
-
-
- Last Updated on 25/10/2026 21:04:05 UTC
-<!--END_SECTION:waka-->
+**Web & backend:** Vue 3 · Gin · FastAPI · SQL · Redis<br>
+**Media:** FFmpeg · MoviePy · NumPy · Pydub · Pedalboard<br>
+**Development & maintenance:** pnpm workspaces · Vitest · Go testing · Python tests · Linux · Nginx
